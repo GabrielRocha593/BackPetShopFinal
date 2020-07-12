@@ -1,0 +1,16 @@
+Modulos\Funcao.class
+Modulos\Pet.class
+Modulos\Cliente.class
+petBack\JAXRSConfiguration.class
+recursos\FuncaoResource.class
+recursos\AgendamentoResource.class
+recursos\HelloWorldResource.class
+Modulos\Funcionario.class
+petBack\CorsFilter.class
+recursos\ClienteResource.class
+recursos\JavaEE8Resource.class
+Modulos\Agendamento.class
+Modulos\Servico.class
+recursos\FuncionarioResource.class
+recursos\ServicoResource.class
+recursos\PetResource.class
